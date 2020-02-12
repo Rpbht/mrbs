@@ -1,0 +1,15 @@
+com.cignex.mrbs
+com.cignex.mrbs.controller
+com.cignex.mrbs.controller.impl
+com.cignex.mrbs.entity
+com.cignex.mrbs.enums
+com.cignex.mrbs.exception
+com.cignex.mrbs.filter
+com.cignex.mrbs.log
+com.cignex.mrbs.model
+com.cignex.mrbs.model.impl
+com.cignex.mrbs.repository
+com.cignex.mrbs.response
+com.cignex.mrbs.response.impl
+com.cignex.mrbs.service
+com.cignex.mrbs.utils
